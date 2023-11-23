@@ -1,0 +1,3 @@
+/Users/oubyou/Desktop/CS402/CS402_SP_LAB3/basicstats/cmake-build-debug/CMakeFiles/basicstats.dir
+/Users/oubyou/Desktop/CS402/CS402_SP_LAB3/basicstats/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oubyou/Desktop/CS402/CS402_SP_LAB3/basicstats/cmake-build-debug/CMakeFiles/rebuild_cache.dir
